@@ -12,7 +12,6 @@ abstract: |
 
 # Chapter 9: Putting Probability and Statistics Together
 
-![](C:\Users\Sid\Desktop\3.jpg){width="100%"}
 
 **What is a Random Variable?**
 
@@ -30,7 +29,6 @@ Random sampling produces a predictable pattern and connects to the idea of a sam
 
 A confidence interval estimates a range of plausible values for a population parameter (e.g., mean or proportion). A 95% confidence interval means that, if repeated, the true value will fall within this range 95% of the time.
 
-![](C:\Users\Sid\Desktop\1.jpg){width="100%"}
 
 *Example: Surveying 100 students about daily screen time. If the average is 3 hours with a 95% confidence interval of 2.8–3.2 hours, this suggests the true average lies in this range.*
 
@@ -44,7 +42,6 @@ Hypothesis testing starts with a null hypothesis (e.g., no effect). Data is comp
 
 **P-Values and Statistical Errors**
 
-![](C:\Users\Sid\Desktop\2.jpg){width="100%"}
 
 A P-value measures the probability of observing results as extreme as the current data under the null hypothesis. Small P-values (e.g., <0.05) indicate significance.
 Errors:
