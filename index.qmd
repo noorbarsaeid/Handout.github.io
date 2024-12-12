@@ -62,4 +62,4 @@ P-values should not be the sole criterion for conclusions. Practical significanc
 *Example: A new drug reduces recovery time by just 1 hour. Even if the P-value is significant, the practical benefit might be minimal.*
 
 # References
-Spiegelhalter, D. (2019). *The Art of Statistics: Learning from Data.* Pelican Books.
+Spiegelhalter, D. (2019). *The Art of Statistics: Learning from Data.* Pelican Books..
